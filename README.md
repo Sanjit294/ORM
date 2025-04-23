@@ -10,6 +10,7 @@ To develop a Django application to store and retrieve data from Movies Database 
 ![alt text](<Screenshot 2025-04-23 103100.png>)
 
 
+
 ## DESIGN STEPS
 
 ### STEP 1:
